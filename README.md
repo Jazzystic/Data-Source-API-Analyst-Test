@@ -54,6 +54,12 @@ These were tested using real examples and interpreted programmatically.
 
 ---
 
+## Reflection
+
+This assignment reinforced my experience with API integrations and the importance of building robust data extraction workflows. I chose Google Colab over Postman because I prefer the flexibility of programmatic approaches when handling authentication, pagination, and error scenarios - especially when dealing with APIs that have specific rate limiting behaviors like GitHub's. The exercise reminded me how critical proper error handling and documentation are when building reliable data pipelines, which I know is essential for multi-source marketing data integrations. The structured approach I used here - from authentication setup to error handling and documentation - reflects the same methodology I apply when working with any API integration.
+
+---
+
 ## Author
 
 Julio César López Mendoza  
