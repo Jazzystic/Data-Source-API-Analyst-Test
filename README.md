@@ -9,13 +9,11 @@ All implementation and testing were performed using Python in Google Colab.
 ---
 
 ## Repository Structure
-
 ├── Content/
 │   ├── api_documentation.md # Full explanation of the endpoints tested and how they were used
 │   └── troubleshooting_guide.md # Notes on error handling and how issues were resolved
 ├── Postman_Collection/ # (Optional) For any exported test environments or notebooks
 └── README.md # This file – general overview of the project
-
 
 ---
 
